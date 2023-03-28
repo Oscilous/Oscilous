@@ -1,5 +1,4 @@
-- Hi, I’m Artis Fils aka @Oscilous.
-- I’m interested in embedded systems.
-- I’m currently studying in Denmark at SDU, BEng Mechatronics.
-- I’m looking to collaborate on embedded and mechatronics projects.
-- Feel free to message me here or email me artis.fils@gmail.com
+- Interested in embedded systems.
+- Currently studying in Denmark at SDU, BEng Mechatronics.
+- Looking to collaborate on embedded and mechatronics projects.
+- Feel free to reach out.
